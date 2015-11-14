@@ -52,3 +52,5 @@ This is RemindMeLaterButton title. Default is `稍后提醒`.It's optional prope
 ```
 This is cancelBUttonTitle. Default is `不了，谢谢！`. It's optional property to be configed.
 
+#Help
+If you need help,please feel free to mail me.I will try my best to help you. My E-mail:qiankunli@yahoo.com
