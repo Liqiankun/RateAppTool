@@ -34,11 +34,11 @@ This is your app Downloading URL. It required to be configed. It will go App Sto
 ```c
 @property(nonatomic,copy) NSString *alerTitle;
 ```
-This is the alertView title. It required to be configed.
+This is the alertView title. It's required to be configed.
 ```c
 @property(nonatomic,copy) NSString *alertMessage;
 ```
-This is the alertView message.It required to be configed.
+This is the alertView message.It's required to be configed.
 ```c
 @property(nonatomic,copy) NSString *rateTitle;
 ```
