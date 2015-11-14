@@ -25,3 +25,5 @@ Like this:<br>
     return YES;
 }
 ```
+#Configuration
+To use it  more 
