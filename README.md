@@ -5,7 +5,7 @@ A lib remind users to rate your App at App Store.RateAppTool will remaind uses a
 #How To Use
 Drag RateAppTool file to your project.Then `import "RateAppTool.h`.<br>
 Like this:<br>
-```c
+```oc
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     self.window = [[UIWindow alloc] init];
@@ -27,27 +27,27 @@ Like this:<br>
 ```
 #Configuration
 To use it more self- explanatory，There is here are a number of properties must be configed.
-```c
+```oc
 @property(nonatomic,copy) NSString *appDownloadURL;
 ```
 This is your app Downloading URL. It required to be configed. It will go App Store after user click `现在就去`.
-```c
+```oc
 @property(nonatomic,copy) NSString *alerTitle;
 ```
 This is the alertView title. It's required to be configed.
-```c
+```oc
 @property(nonatomic,copy) NSString *alertMessage;
 ```
 This is the alertView message.It's required to be configed.
-```c
+```oc
 @property(nonatomic,copy) NSString *rateTitle;
 ```
 This is rateButton title. Default is `现在就去`. It's optional property to be configed.
-```c
+```oc
 @property(nonatomic,copy) NSString *remainLater;
 ```
 This is RemindMeLaterButton title. Default is `稍后提醒`.It's optional property to be configed.
-```c
+```oc
 @property(nonatomic,copy) NSString *cancelTitle;
 ```
 This is cancelBUttonTitle. Default is `不了，谢谢！`. It's optional property to be configed.
