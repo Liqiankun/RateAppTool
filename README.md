@@ -1,5 +1,5 @@
 ![](https://github.com/Liqiankun/RateAppTool/raw/master/rateAppTool.png )<br>
-A lib remindes users to rate your App at App Store.RateAppTool will remaind uses after running three times.
+A lib reminds users to rate your App at App Store.RateAppTool will remaind uses after running three times.
 ![](https://github.com/Liqiankun/RateAppTool/raw/master/RateAppToolDemo/rateAppTool.png )
 #How To Use
 Drag RateAppTool file to your project.Then `import "RateAppTool.h`.<br>
